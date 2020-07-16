@@ -66,7 +66,7 @@ We evaluated the system by considering different sentence lengths and different 
 
 ### Accuracy versus sentence length
 
-<img title="" src="Figures/rs_length.png" alt="Accuracy vs Length" width="412">
+<img title="" src="Figures/rs_length.png" alt="Accuracy vs Length" width="525">
 
 ### Performance of the system for various writing styles
 
