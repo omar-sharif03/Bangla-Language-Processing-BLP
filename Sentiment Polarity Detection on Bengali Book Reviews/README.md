@@ -28,3 +28,30 @@ result reveals that the multinomial Naive Bayes with unigram feature
 outperforms the other techniques with 84% accuracy on the test set.
 
 ## Summary of dataset
+<div style="text-align:center">
+<img src="https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/Dataset_Summary.PNG"/>
+</div>
+
+## Framework and Results
+These figures represents our proposed framework and some snaps of our results.
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/Proposed_model.PNG "Proposed Framework")
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/Cross_Validation.PNG)
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/Perfomance.PNG)
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/uni_roc.PNG)
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/uni_PR.PNG)
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/bi_Roc.PNG)
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/Bi_PR.PNG)
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/tri_Roc.PNG)
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/tri_PR.PNG)
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Polarity%20Detection%20on%20Bengali%20Book%20Reviews/Figures/accuracy2.PNG)
+
+
+
+
