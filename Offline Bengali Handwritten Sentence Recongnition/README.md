@@ -70,4 +70,4 @@ We evaluated the system by considering different sentence lengths and different 
 
 ### Performance of the system for various writing styles
 
-<img src="Figures/rs_style.png" title="" alt="Performance for various writing styles" width="652">
+<img title="" src="Figures/rs_style.png" alt="Performance for various writing styles" width="100%">
