@@ -25,5 +25,12 @@ than other algorithms.
 
 ## Data Summary
 
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Automatic%20Detection%20of%20Suspicious%20Bangla%20Text/Figures/Dataset_Summary.PNG)
+
+## Framework and Results
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Automatic%20Detection%20of%20Suspicious%20Bangla%20Text/Figures/pr_model.PNG)
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Automatic%20Detection%20of%20Suspicious%20Bangla%20Text/Figures/Perfomance.PNG)
 
 
