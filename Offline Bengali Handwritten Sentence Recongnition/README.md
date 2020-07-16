@@ -38,11 +38,11 @@ sentences considering 15 distinct writing styles.
 
 The following figure represents our proposed framework for handwritten sentence recognition.
 
-![Proposed framework](Figures/framework.png)
+<img title="" src="Figures/framework.png" alt="Proposed framework" width="609">
 
 ### Preprocessing
 
-<img src="Figures/preprocess.png" title="" alt="Segmentation process" width="533">
+<img title="" src="Figures/preprocess.png" alt="Segmentation process" width="559">
 
 ### Word separation
 
@@ -54,11 +54,11 @@ The following figure represents our proposed framework for handwritten sentence 
 
 ### Input and output of BiLSTM network
 
-<img src="Figures/blstm_output.png" title="" alt="BiLSTM Network" width="448">
+<img title="" src="Figures/blstm_output.png" alt="BiLSTM Network" width="494">
 
 ### CTC decoding and loss value calcuation
 
-<img src="Figures/blstm_ctc.png" title="" alt="CTC Decoding" width="478">
+<img title="" src="Figures/blstm_ctc.png" alt="CTC Decoding" width="533">
 
 ## Result and Analysis
 
