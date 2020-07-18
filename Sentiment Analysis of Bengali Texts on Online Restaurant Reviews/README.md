@@ -8,7 +8,7 @@
 
 **Google Scholar:** [Paper Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&authuser=1&q=+Sentiment+Analysis+of+Bengali+Texts+on+Online+Restaurant+Reviews+Using+Multinomial+Na%C4%B1ve+Bayes&btnG=)
 
-**We will release the code and dataset of this work as soon as possible**
+**We will release the code and dataset of this work as soon as possible. You may take a look on the book review classification code**
 
 ## Abstract
 Recently, determining the customer impression is
@@ -29,3 +29,15 @@ proposed system with 1000 restaurant reviews text written in
 Bengali. The experimental result shows that the proposed the
 system can classify restaurant reviews with 80:48% accuracy
 using multinomial Na¨ıve Bayes.
+
+## Framework
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Analysis%20of%20Bengali%20Texts%20on%20Online%20Restaurant%20Reviews/Figures/system_framework.PNG)
+
+## Result & Analysis
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Analysis%20of%20Bengali%20Texts%20on%20Online%20Restaurant%20Reviews/Figures/Performance.PNG)
+
+![alt text](https://github.com/omar-sharif03/Bangla-Language-Processing-BLP/blob/master/Sentiment%20Analysis%20of%20Bengali%20Texts%20on%20Online%20Restaurant%20Reviews/Figures/report.PNG)
+
+
