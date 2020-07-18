@@ -8,7 +8,7 @@
 
 **Google Scholar:** [Paper Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&authuser=1&q=+Sentiment+Analysis+of+Bengali+Texts+on+Online+Restaurant+Reviews+Using+Multinomial+Na%C4%B1ve+Bayes&btnG=)
 
-**If you have any query feel free to contact the authors**
+**We will release the code and dataset of this work as soon as possible**
 
 ## Abstract
 Recently, determining the customer impression is
